@@ -10,6 +10,7 @@ _Starter files for a Single View iOS App_
   - App/
   - Global/
   - View/
-  - If you copy Info.plist, you may need to remove the file from the "Copy Bundle Resources" section of your Build Phases
+  - If you copy Info.plist, you may need to remove the file from the "Copy Bundle Resources" section of your Build Phases.
+  - If you do not copy Info.plist, change the Main interface to App.storyboard in "Deployment" section of General
   
 _Make sure to select "Create Groups" and that "Copy items if needed" is checked_
